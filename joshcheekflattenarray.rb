@@ -1,7 +1,7 @@
 require 'pry'
 
-  def my_flatten(array)
-binding.pry
+def my_flatten(array)
+# binding.pry
     result = []
     until array.empty?
       if array.first.is_a?(Array)
