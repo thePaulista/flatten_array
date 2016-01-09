@@ -5,7 +5,7 @@ This was an exercise given to the module 1 Echo group (I'm in the supernewbie Fo
 was Chad Ellison. 
 
 I called the file joshcheekflattenarray.rb because he gave us the inner workings of his thoughts on that first week
-- that ask a flourish of questions and go from there.  The questions he asked to get the code started were:
+- to ask a flourish of questions and to go from there.  The questions he asked to get the code started were:
 are you an array, if so, are you empty, if so, then do this, else, do that.  So, we started with those question as our base
 to solve this.  
 
